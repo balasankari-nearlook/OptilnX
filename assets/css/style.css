@@ -6364,7 +6364,7 @@ only screen and (max-width: 767px) {
 
 .ht-box-icon.style-01 .icon-box-wrap .icon svg>*,
 .ht-box-icon.style-01 .icon-box-wrap .icon svg path {
-  stroke: #086AD8;
+  stroke: #304499;
 }
 
 .ht-box-icon.style-01 .icon-box-wrap .content {
@@ -7010,7 +7010,7 @@ only screen and (max-width: 767px) {
 .ht-box-images.style-06 .image-box-wrap .box-image {
   position: relative;
   width: 162px;
-  height: 162px;
+  height: 165px;
   border-radius: 50%;
   margin: 0 auto 2px;
   text-align: center;
